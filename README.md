@@ -2,7 +2,14 @@
  # 1.Problem Statement 
  India’s gig delivery workforce (Zomato, Swiggy, Zepto, Amazon, etc.) faces income loss due to uncontrollable external disruptionssuch as:Heavy Rain,Floods ,Extreme Heat ,Severe Air Pollution ,Traffic Congestion Road Closures ,Curfews Zone Lockdowns Currently, there is NO income protection system for such disruptions. 
  # 2. Target Persona 
- We focus on Food Delivery Partners (Swiggy / Zomato) # Persona: 1.Works 8–10 hours/day 2.Earns ₹500–₹1200/day 3.Income directly depends on working hours 4.Highly affected by environmental disruptions # Example We will provide an example Ravi is a 26 year old food delivery partner working in a busy urban area. He works around 8–10 hours a day, completing multiple deliveries to earn between ₹500 and ₹1200 daily. His income is directly tied to the number of deliveries he completes. On normal days, he can maximize his earnings by working longer hours. However, his work is highly dependent on external conditions. For example: During heavy rain, fewer orders come in and travel becomes unsafe During extreme heat, working long hours becomes physically exhausting When pollution levels are high, outdoor work becomes risk During traffic congestion or curfews, deliveries may stop completely On such days, Ravi is forced to stop working or reduce his hours, leading to immediate income loss. He currently has no financial backup or insurance support to compensate for these disruptions.
+ We focus on Food Delivery Partners (Swiggy / Zomato) 
+ # Persona: 
+ 1.Works 8–10 hours/day
+ 2.Earns ₹500–₹1200/day 
+ 3.Income directly depends on working hours
+ 4.Highly affected by environmental disruptions 
+ # Example 
+ We will provide an example Ravi is a 26 year old food delivery partner working in a busy urban area. He works around 8–10 hours a day, completing multiple deliveries to earn between ₹500 and ₹1200 daily. His income is directly tied to the number of deliveries he completes. On normal days, he can maximize his earnings by working longer hours. However, his work is highly dependent on external conditions. For example: During heavy rain, fewer orders come in and travel becomes unsafe During extreme heat, working long hours becomes physically exhausting When pollution levels are high, outdoor work becomes risk During traffic congestion or curfews, deliveries may stop completely On such days, Ravi is forced to stop working or reduce his hours, leading to immediate income loss. He currently has no financial backup or insurance support to compensate for these disruptions.
 # 3.Our Proposed Solution
  # Detailed Working of SurakshaPay 
 SurakshaPay is designed to function as a fully automated income protection system for gig workers. The platform continuously connects real-world data with intelligent decision-making to ensure that workers receive compensation whenever they are unable to work due to external disruptions.
