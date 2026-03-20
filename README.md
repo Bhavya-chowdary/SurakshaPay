@@ -144,6 +144,7 @@ Payment Gateway
 5.APIs-Weather API,Pollution API,Traffic APIPayment API
  # 11. Roles DashBoard Feature 
  1.Worker DashBoard-Active policy,Weekly premium,Claims history,Risk alerts Earnings protected 
+ 
  2.Admin DashBoard - Policy monitoring,Claims analytics,Fraud alerts,Risk heatmaps
  # 12. Development Plan 
 week-1:Research + README + architecture
